@@ -1,24 +1,4 @@
-# takeoff-test
+Хаха, это страница авторизации на vue. Вылазят алерты, потому что лень делать модалку. Мдбутстрап, потому что лень делать кнопки. В сторе творятся страшные мутации прямо в фильтрах, я знаю что так нельзя, но это же все таки тестовое задание)
+Смешная картинка: https://sun9-45.userapi.com/xKaupJXa-GMMYR6RflgfDdv3L6oSYwK5dZQxjg/JeTYXVWKswA.jpg
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Запуск проекта через npm start
